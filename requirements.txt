@@ -1,0 +1,8 @@
+langchain
+streamlit==1.22.0
+protobuf~=3.19.0
+langchain_experimental
+mysql-connector-python
+pymysql
+sentence-transformers
+chromadb

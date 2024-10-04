@@ -1,6 +1,6 @@
 **Strive Sports Analytics Hub:** 
 
-Strive Sports Analytics Hub is an LLM based intelligent, SQL-powered system designed to answer questions by querying a MySQL database. Built with Langchain, Google Generative AI, and HuggingFace embeddings, this application allows users to retrieve real-time answers by converting their questions into precise SQL queries and gives the final results.  
+'Strive Sports Analytics Hub' is an LLM based intelligent, SQL-powered system designed to answer questions by querying a MySQL database. Built with Langchain, Google Generative AI, and HuggingFace embeddings, this application allows users to retrieve real-time answers by converting their questions into precise SQL queries and gives the final results.  
 
 **Key Features:**    
 

@@ -25,7 +25,11 @@ Step 3: The generated SQL query is then executed by the LLM, fetching the data d
 Step 4: The query results are processed, and the final answer is returned to the user.  
 Step 5: For enhanced performance, few-shot learning examples are used to select the most relevant examples from a vector store powered by Chroma and HuggingFace embeddings.    
 
-![image](https://github.com/user-attachments/assets/8f6ed3e4-303b-4ccc-aeee-ec3e787f4267)
+![image](https://github.com/user-attachments/assets/67081855-43a4-4cea-bc74-63554cc6e9e9)
+
+![image](https://github.com/user-attachments/assets/d7dbcd4d-f9ee-4385-a65c-20fc5d5fdc11)
+
+
 
 
 Information about the products at Strive Sports.  

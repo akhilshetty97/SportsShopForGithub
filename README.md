@@ -17,11 +17,21 @@ Chroma Vector Store: Stores vectorized few-shot examples for semantic similarity
 MySQL: Back-end database for storing sports-related data (e.g., products, stock, and prices).  
 
 How It Works:  
-Step 1: The user inputs a question related to the products of the company (e.g., "How many Nike products are left in stock?").
+Step 1: The user inputs a question related to the products of the company (e.g., "How many Adidas products are left in stock?").
 Step 2: The LLM generates a SQL query using Langchain and Google Generative AI.
 Step 3: The generated SQL query is then executed by the LLM, fetching the data directly from the MySQL database.
 Step 4: The query results are processed, and the final answer is returned to the user.
 Step 5: For enhanced performance, few-shot learning examples are used to select the most relevant examples from a vector store powered by Chroma and HuggingFace embeddings.  
 
 ![image](https://github.com/user-attachments/assets/8f6ed3e4-303b-4ccc-aeee-ec3e787f4267)
+
+
+Information about the products at Strive Sports.  
+
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/0817b4ac-7b3d-441b-b8af-662b28a41e65">
+
+Information about the product discounts.  
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/6abb640e-7be3-4ed6-82e6-0d79ffccb3d3">
+
+
 

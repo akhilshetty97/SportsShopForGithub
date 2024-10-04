@@ -24,9 +24,11 @@ Step 3: The generated SQL query is then executed by the LLM, fetching the data d
 Step 4: The query results are processed, and the final answer is returned to the user.  
 Step 5: For enhanced performance, few-shot learning examples are used to select the most relevant examples from a vector store powered by Chroma and HuggingFace embeddings.    
 
-![image](https://github.com/user-attachments/assets/67081855-43a4-4cea-bc74-63554cc6e9e9)
+![image](https://github.com/user-attachments/assets/40de2d7d-0f2c-40a4-9aac-c0283d3dd90f)
 
-![image](https://github.com/user-attachments/assets/d7dbcd4d-f9ee-4385-a65c-20fc5d5fdc11)
+
+![image](https://github.com/user-attachments/assets/ccab67fa-cdc1-4e92-a82a-9585ed638125)
+
 
 
 
